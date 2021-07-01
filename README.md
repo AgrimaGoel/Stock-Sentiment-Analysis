@@ -1,0 +1,2 @@
+# Stock-Sentiment-Analysis
+Stock Sentiment Analysis is a program which determines the sentiments of the market through stock headlines. The dataset contains a target value which depicts whether the stock will grow or dip and the variable is about different headlines regarding that stock. The project required text analysis and classification for which stop words, naive bayes, count vectorization and TF-IFD is used.
